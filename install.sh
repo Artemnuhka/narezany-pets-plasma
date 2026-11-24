@@ -41,4 +41,4 @@ PY
 if command -v kbuildsycoca6 >/dev/null 2>&1; then
     kbuildsycoca6 >/dev/null 2>&1 || true
 fi
-printf 'plasma-pets установлен. Открой его из меню приложений KDE.\n'
+printf 'plasma-pets установлен. Открой его из меню приложений.\n'
